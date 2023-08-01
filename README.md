@@ -1,40 +1,24 @@
-Cent Token (CTPAY)
-Cent Token (CTPAY) is a BEP20 token built on the Binance Smart Chain (BSC) with a total supply of 10,000,000 tokens. The token has 18 decimal places, allowing for high precision in value representation.
 
-Token Details
-Name: Cent
-Symbol: CTPAY
-Decimal: 18
-Total Supply: 10,000,000
-Holdings
-The distribution of Cent tokens is as follows:
+Cent is a BEP20 token with the following details:
 
-Public Sale: 50% (5,000,000 CTPAY)
-Owner: 20% (2,000,000 CTPAY)
-Presale: 20% (2,000,000 CTPAY)
-Airdrop: 10% (1,000,000 CTPAY)
-Contacts
-Stay connected with Cent Token through our official channels:
+- Name: Cent
+- Symbol: CTPAY
+- Decimal: 18
+- Total Supply: 10,000,000
 
-Telegram Channel: https://t.me/CentToken
-Telegram Group: https://t.me/CentTokenSupport
-Twitter: https://twitter.com/Cent_Token
-Facebook: https://facebook.com/CentToken
-Youtube: https://youtube.com/@CentToken
-Feel free to join our Telegram channels and follow us on Twitter, Facebook, and YouTube to get the latest updates and news about Cent Token!
+Distribution of Tokens:
 
-Disclaimer: Cent Token is a decentralized digital asset built on the Binance Smart Chain. As with any cryptocurrency investment, please exercise caution and do your own research before participating. The information provided here is for informational purposes only and should not be considered financial advice.
+- Public Sale : 50%
+- Owner : 20%
+- Presale : 20%
+- Airdrop : 10%
 
-License
-The Cent Token project is open-source and distributed under the MIT License. See the LICENSE file for more information.
+## Contacts
 
-Contributing
-We welcome contributions from the community! If you want to contribute to Cent Token, please read the CONTRIBUTING file to get started.
+- Telegram Channel: [Cent Token](https://t.me/CentToken)
+- Telegram Group: [Cent Token Support](https://t.me/CentTokenSupport)
+- Twitter: [Cent Token](https://twitter.com/Cent_Token)
+- Facebook: [Cent Token](https://facebook.com/CentToken)
+- Youtube: [Cent Token](https://youtube.com/@CentToken)
 
-Issues
-If you encounter any issues with Cent Token or have suggestions for improvements, please create a new issue on GitHub.
-
-Acknowledgments
-We want to express our gratitude to all contributors and community members who have supported Cent Token's development and growth.
-
-Thank you for being part of the Cent Token community!
+Feel free to reach out to us on any of the above platforms if you have any questions or need further assistance with Cent Token (CTPAY).
